@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1,
+    "transcript_snippet": "For the third quarter, we expect revenue growth of 8% year over year. We are maintaining disciplined execution across geographies.",
+    "expected_metrics": ["revenue growth"],
+    "expected_guidance_count": 1,
+    "has_guidance": true,
+    "notes": "single metric explicit percent guidance"
+  },
+  {
+    "id": 2,
+    "transcript_snippet": "We project gross margin at 41.5% in Q4, supported by favorable mix. This remains our central planning assumption.",
+    "expected_metrics": ["gross margin"],
+    "expected_guidance_count": 1,
+    "has_guidance": true,
+    "notes": "single metric margin guidance"
+  },
+  {
+    "id": 3,
+    "transcript_snippet": "Capex is expected to be around $620 million next fiscal year. We will prioritize data center expansion and automation programs.",
+    "expected_metrics": ["capex"],
+    "expected_guidance_count": 1,
+    "has_guidance": true,
+    "notes": "single metric capex guidance"
+  },
+  {
+    "id": 4,
+    "transcript_snippet": "We anticipate R&D spend of roughly $1.4 billion for fiscal 2021. That level supports our product roadmap milestones.",
+    "expected_metrics": ["R&D spend"],
+    "expected_guidance_count": 1,
+    "has_guidance": true,
+    "notes": "single metric r-and-d guidance"
+  },
+  {
+    "id": 5,
+    "transcript_snippet": "Management now targets hiring approximately 1,200 net new engineers over the next 12 months. We believe this keeps capacity aligned with demand.",
+    "expected_metrics": ["headcount"],
+    "expected_guidance_count": 1,
+    "has_guidance": true,
+    "notes": "single metric hiring plan"
+  },
+  {
+    "id": 6,
+    "transcript_snippet": "For Q1, we expect revenue between $5.0 and $5.2 billion and diluted EPS of $1.05 to $1.10. We also see operating margin around 19%.",
+    "expected_metrics": ["revenue", "EPS", "operating margin"],
+    "expected_guidance_count": 3,
+    "has_guidance": true,
+    "notes": "multi metric with ranges"
+  },
+  {
+    "id": 7,
+    "transcript_snippet": "We are guiding cloud segment growth of 22% and total company growth of 11% next quarter. Gross margin should be at least 44%.",
+    "expected_metrics": ["cloud segment growth", "revenue growth", "gross margin"],
+    "expected_guidance_count": 3,
+    "has_guidance": true,
+    "notes": "multi metric segment plus total plus margin"
+  },
+  {
+    "id": 8,
+    "transcript_snippet": "Our outlook calls for free cash flow of $900 million to $1.0 billion, capex near $300 million, and EPS around $0.84 in the second half.",
+    "expected_metrics": ["free cash flow", "capex", "EPS"],
+    "expected_guidance_count": 3,
+    "has_guidance": true,
+    "notes": "multi metric cash flow capex eps"
+  },
+  {
+    "id": 9,
+    "transcript_snippet": "We plan to launch the new platform in October and target 250 enterprise customer wins by year end. Revenue contribution should be modest in Q4.",
+    "expected_metrics": ["product launch timeline", "customer targets", "revenue"],
+    "expected_guidance_count": 3,
+    "has_guidance": true,
+    "notes": "multi metric operational and financial targets"
+  },
+  {
+    "id": 10,
+    "transcript_snippet": "Next quarter we expect subscriptions to grow 14% to 16%, adjusted EPS to be about $2.30, and operating expenses to increase low single digits.",
+    "expected_metrics": ["subscription growth", "EPS", "operating expenses"],
+    "expected_guidance_count": 3,
+    "has_guidance": true,
+    "notes": "multi metric with mixed numeric formats"
+  },
+  {
+    "id": 11,
+    "transcript_snippet": "We believe revenue could improve meaningfully if macro conditions stabilize. Potentially, margins may trend higher over time.",
+    "expected_metrics": [],
+    "expected_guidance_count": 0,
+    "has_guidance": false,
+    "notes": "vague hedged statements with no quantification"
+  },
+  {
+    "id": 12,
+    "transcript_snippet": "Assuming no major disruptions, we hope to accelerate growth next year. We cannot guarantee timing given customer budget cycles.",
+    "expected_metrics": [],
+    "expected_guidance_count": 0,
+    "has_guidance": false,
+    "notes": "hedged language but no numeric metric"
+  },
+  {
+    "id": 13,
+    "transcript_snippet": "Management is on track to execute strategy, and we expect strong demand to continue. The team remains confident in long-term positioning.",
+    "expected_metrics": [],
+    "expected_guidance_count": 0,
+    "has_guidance": false,
+    "notes": "future language without quantifiable guidance"
+  },
+  {
+    "id": 14,
+    "transcript_snippet": "We may see better mix benefits over the coming quarters, contingent on supply normalization. Around this time next year, profitability should improve.",
+    "expected_metrics": [],
+    "expected_guidance_count": 0,
+    "has_guidance": false,
+    "notes": "ambiguous outlook without specific values"
+  },
+  {
+    "id": 15,
+    "transcript_snippet": "In Q2 we reported revenue of $3.8 billion, up 9% year over year. Diluted EPS was $0.72 and operating margin was 17.4%.",
+    "expected_metrics": [],
+    "expected_guidance_count": 0,
+    "has_guidance": false,
+    "notes": "pure historical results only"
+  },
+  {
+    "id": 16,
+    "transcript_snippet": "This quarter gross margin came in at 45.2%, and free cash flow was $410 million. We also reduced net debt by $220 million.",
+    "expected_metrics": [],
+    "expected_guidance_count": 0,
+    "has_guidance": false,
+    "notes": "past tense actuals no forward guidance"
+  },
+  {
+    "id": 17,
+    "transcript_snippet": "We delivered 31% growth in enterprise ARR and added 180 net new logos in the quarter. International revenue was $620 million.",
+    "expected_metrics": [],
+    "expected_guidance_count": 0,
+    "has_guidance": false,
+    "notes": "historical performance metrics only"
+  },
+  {
+    "id": 18,
+    "transcript_snippet": "For fiscal 2025, we guide revenue to EUR 2.6 to 2.8 billion and EBITDA margin in the 24%-25% range. Capex should stay below EUR 180 million.",
+    "expected_metrics": ["revenue", "EBITDA margin", "capex"],
+    "expected_guidance_count": 3,
+    "has_guidance": true,
+    "notes": "edge case non-usd currency and annual guidance"
+  },
+  {
+    "id": 19,
+    "transcript_snippet": "Our midpoint outlook implies yen revenue of JPY 420 billion, plus or minus 3%. We target operating profit of at least JPY 52 billion.",
+    "expected_metrics": ["revenue", "operating profit"],
+    "expected_guidance_count": 2,
+    "has_guidance": true,
+    "notes": "edge case plus-minus and yen denomination"
+  },
+  {
+    "id": 20,
+    "transcript_snippet": "We expect first-half unit shipments of 1.2 to 1.4 million and full-year market share to be around 11%. Product launch is planned for late Q3.",
+    "expected_metrics": ["unit shipments", "market share", "product launch timeline"],
+    "expected_guidance_count": 3,
+    "has_guidance": true,
+    "notes": "edge case operational metrics and timeline guidance"
+  }
+]
